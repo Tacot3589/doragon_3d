@@ -5,4 +5,4 @@
 
 ...
 "totalnie"
-         ~Michał~kiedyśtam~
+         -Michał-kiedyśtam-

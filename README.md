@@ -2,7 +2,7 @@
  szymon australia sumo 2024
 
 
-NIGGER
+
 
 ...
 

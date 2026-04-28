@@ -21,7 +21,7 @@ Accomplishments:
 
 # Images!
 
-![](doragon.png)
-![](drift.mp4)
+![]([doragon.png](https://github.com/Tacot3589/doragon_3d/blob/main/media/doragon.jpg))
+![](https://github.com/Tacot3589/doragon_3d/blob/main/media/drift.mp4)
 
 PS. On this repo is only 3d models

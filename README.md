@@ -22,6 +22,6 @@ Accomplishments:
 # Images!
 
 [![Doragon robot](https://github.com/Tacot3589/doragon_3d/blob/main/media/doragon.jpg "Doragon robot")](https://github.com/Tacot3589/doragon_3d/blob/main/media/doragon.jpg "Doragon robot")
-[![Doragon robot](https://github.com/Tacot3589/doragon_3d/blob/main/media/drift.mp4 "Doragon robot - video drifting")](https://github.com/Tacot3589/doragon_3d/blob/main/media/drift.mp4 "Doragon robot - video drifting")
+[![Doragon robot - video drifting](https://github.com/Tacot3589/doragon_3d/blob/main/media/drift.mp4 "Doragon robot - video drifting")](https://github.com/Tacot3589/doragon_3d/blob/main/media/drift.mp4 "Doragon robot - video drifting")
 
 PS. On this repo is only 3d models
